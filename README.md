@@ -6,7 +6,7 @@ This is a mobile application built using React Native that allows users to brows
 https://expo.dev/@sprabesh122/NFT?serviceType=classsic&distribution=expo-go
 
 
-# Scan the QR on Expo app to preview the app
+#### Scan the QR on Expo app to preview the app
 
 <img width="269" alt="QR" src="https://user-images.githubusercontent.com/88088638/236249620-003c8bd8-538b-4c48-948f-d7e986aa6420.png">
 
